@@ -6,7 +6,6 @@ backend/node_modules/
 
 # Serverless directories
 .serverless
-terraform
 
 # Local .terraform directories
 **/.terraform/*
