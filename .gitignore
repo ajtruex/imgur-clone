@@ -7,7 +7,6 @@ backend/node_modules/
 # Serverless directories
 .serverless
 terraform
-/.terraform/plugins/darwin_amd64
 
 # Local .terraform directories
 **/.terraform/*
